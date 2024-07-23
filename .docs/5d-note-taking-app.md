@@ -53,10 +53,7 @@ Source: [Twitter @Hamptonism](https://x.com/Hamptonism/status/180524726779788942
 - A 3D social graph with static nodes that enable traversal though space.
 - Nodes are nicely connected
 
-<video width="600" controls>
-  <source src="../.media/5d-notes/3d-twitter-graph.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+https://github.com/user-attachments/assets/e0582290-efdc-46ce-b248-6974a3384e39
 
 Source: [Twitter @ilaffey2](https://x.com/ilaffey2/status/1645962525349928965)
 
@@ -64,10 +61,7 @@ Source: [Twitter @ilaffey2](https://x.com/ilaffey2/status/1645962525349928965)
 
 - Another social graph with focused nodes and nicer traversal
 
-<video width="600" controls>
-  <source src="../.media/5d-notes/3d-discord-graph.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+https://github.com/user-attachments/assets/0b396ac9-b463-4dbf-b160-cfd0ecbe1009
 
 Source: [Twitter @fr3fou](https://x.com/fr3fou/status/1774565881336459588)
 
